@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gs721_242p1p2_jp4285</string>
+    <string name="describe">logo de tux</string>
+    <string name="etiqueta">Bienvenido a esta aplicacion la cual nos permite cambiar de pntalla automaticamente </string>
+
+    <string name="p2titulo">Este es el titulo de la segunda pantalla</string>
+</resources>
